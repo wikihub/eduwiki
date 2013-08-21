@@ -4,7 +4,7 @@ eduwiki
 A wiki for the everyday life of students, junior and senior:
 
 * [Learn](https://github.com/wikihub/eduwiki/wiki/Learn)
-* [Search](https://github.com/wikihub/eduwiki/wiki/Search)
+* [Read](https://github.com/wikihub/eduwiki/wiki/Read)
 * [Research](https://github.com/wikihub/eduwiki/wiki/Research)
 * [Code](https://github.com/wikihub/eduwiki/wiki/Code)
 * [Write](https://github.com/wikihub/eduwiki/wiki/Write)
