@@ -14,4 +14,4 @@ A wiki for the everyday life of students, junior and senior:
 * [Work](https://github.com/wikihub/eduwiki/wiki/Work)
 
 We use MediaWiki markup on this wiki. [Here](http://en.wikipedia.org/wiki/Wikipedia:Tutorial) is a tutorial 
-to editting wiki pages. Do not forget to change the edit mode to MediaWiki.
+on editting wiki pages. Do not forget to change the edit mode to MediaWiki when you create a new page.
