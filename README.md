@@ -11,7 +11,7 @@ A wiki for the everyday life of students, junior and senior:
 * [Code](https://github.com/wikihub/eduwiki/wiki/Code)
 * [Write](https://github.com/wikihub/eduwiki/wiki/Write)
 * [Present](https://github.com/wikihub/eduwiki/wiki/Present)
-* [work](https://github.com/wikihub/eduwiki/wiki/Work)
+* [Work](https://github.com/wikihub/eduwiki/wiki/Work)
 
 We use MediaWiki markup on this wiki. [Here](http://en.wikipedia.org/wiki/Wikipedia:Tutorial) is a tutorial 
 to editting wiki pages. Do not forget to change the edit mode to MediaWiki.
