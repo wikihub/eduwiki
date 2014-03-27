@@ -9,6 +9,7 @@ A wiki for the everyday life of students, junior and senior:
 * [Research](https://github.com/wikihub/eduwiki/wiki/Research)
 * [Build](https://github.com/wikihub/eduwiki/wiki/Build)
 * [Code](https://github.com/wikihub/eduwiki/wiki/Code)
+* [Draw](https://github.com/wikihub/eduwiki/wiki/Draw)
 * [Write](https://github.com/wikihub/eduwiki/wiki/Write)
 * [Present](https://github.com/wikihub/eduwiki/wiki/Present)
 * [Work](https://github.com/wikihub/eduwiki/wiki/Work)
